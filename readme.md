@@ -86,16 +86,16 @@ Redundancy, monitoring, and high availability are also considered in the design.
 ## 🖼 Network Topology
 
 ### Main Topology
-![Main Topology](images/topologyuniversity.png.png)
+![Main Topology](topologyuniversity.png)
 
 ### Administration Building
-![Administration Topology](images/admin.png)
+![Administration Topology](admin.png)
 
 ### Labs Building
-![Labs Topology](images/lap.png)
+![Labs Topology](lap.png)
 
 ### Dorms Building
-![Dorms Topology](images/dorms.png)
+![Dorms Topology](dorms.png)
 
 ---
 
@@ -126,4 +126,5 @@ Redundancy, monitoring, and high availability are also considered in the design.
 ---
 
 ## 👩‍💻 Author
+
 Designed and implemented by *Shahd Yesen**
