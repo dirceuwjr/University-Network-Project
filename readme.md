@@ -1,4 +1,5 @@
 # 🎓 University Network Project 🌐
+Cisco Packet Tracer project simulating a university campus network with three main buildings (Administration, Labs, Dorms). Includes CCNA fundamentals and advanced CCNP-level configurations such as VLANs, OSPF multi-area, EtherChannel, ACLs, HSRP, AAA with RADIUS, and wireless (WLC & AP). Designed and implemented by Shahd Yesen.
 
 ## 📌 Overview
 This project designs and implements a *university campus network* with *three main buildings*:  
@@ -114,7 +115,8 @@ Redundancy, monitoring, and high availability are also considered in the design.
 
 ## 📝 Notes
 - Packet Tracer was used for simulation.  
-- Some advanced features (like HSRP failover) may not fully function due to tool limitations.  
+- Some advanced features (like HSRP failover) may not fully function due to tool limitations.
+- All device passwords (console, VTY, enable, etc.) are set to *cisco*.
 
 ---
 
@@ -128,3 +130,4 @@ Redundancy, monitoring, and high availability are also considered in the design.
 ## 👩‍💻 Author
 
 Designed and implemented by *Shahd Yesen**
+
